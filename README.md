@@ -10,7 +10,7 @@ Here’s how it will work; we’ll have one container for PHP, one container for
 <p align="center">
   <b>Some Related Links:</b><br>
   <a href="#">https://sites.google.com/site/exequielrafaela/containers/docker/docker-devenv</a> |
-  <a href="#">https://docs.docker.com/compose/install/</a> |
+  <a href="#">https://docs.docker.com/compose/install/</a>
   <br><br>
   <img src="https://github.com/exequielrafaela/Vagrant_PyFab-Docker/blob/master/Figures/Docker-logo-and-type.png" img> 
 </p>
